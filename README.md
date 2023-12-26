@@ -30,13 +30,3 @@ Portafolio Web Developer
 ### Registro de un portafolio
 ![image](https://github.com/juandiego252/Taller---Clase-13---14/assets/102696740/22cae4eb-f6cf-4536-9c91-d706a7c802cf)
 
-
-
-
-
-
-
-
-
-
-# Laboratorio_13_14_Web
